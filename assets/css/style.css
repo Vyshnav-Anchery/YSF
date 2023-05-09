@@ -1,0 +1,87 @@
+.navbar{
+    background-color: #eb1c24;
+    z-index: 1;
+}
+.navigation {
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    max-width: 100%;
+}
+.navigation img{
+    margin-left: 0;
+}
+.first-letter{
+    background-color: #ee1d23;
+    float: left;
+    height: 5px;
+    width: 18px;
+}
+.nav-link{
+    padding: 16px 0px;
+}
+.nav-link:hover{
+    background-color: #bd1016;
+}
+.dropdown-menu{
+    background-color: #bd1016;
+    border-radius: 0; 
+}
+.dropdown-menu a{
+    color: #f8cccb;
+    font-size: 12px;
+}
+.moviebutton{
+    background-color: #ed1b24;
+    padding: 4px 25px;
+    min-width: 220px;
+    height: 40px;
+    margin: 2rem 0;
+    border: 2px solid #ed1b24;
+}
+.subscribe{
+    background-image: url(/Public/Images/subscribe-bg21.jpg);
+    background-size: cover;
+    padding: 5rem;
+}
+.subscribe a{
+    color: #ee1d24;
+    font-weight: 600;  
+}
+.carousel-control-prev{
+    z-index: 0;
+}
+#carouselId{
+    z-index: 0;
+}
+.subscribe button{
+    background-color: #eb1c24;
+    border: none;
+    color: white;
+    width: 220px;
+    height: 40px;
+}
+footer{
+    background-color: #1a1a1a;
+    border-top: 10px solid #333;
+}
+.logohide{
+    background-color: #1a1a1a;
+    font-size:25px;
+}
+.yt{
+    background-color: #ee1d24;
+    padding-top: .2rem;
+}
+.about{
+    color: grey;
+    font-size: 13px;
+}
+.fonted{
+    font-family: 'Tangerine', cursive;
+    font-size: 30px;
+}
+.yrfinfo{
+    color: grey;
+    font-size: 13px;
+}
